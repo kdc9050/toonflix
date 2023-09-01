@@ -1,7 +1,6 @@
 # toonflix
 
-A new Flutter project.
-
+UI 위젯 여러개 이용한 간단한 앱
 ## Getting Started
 
 This project is a starting point for a Flutter application.
